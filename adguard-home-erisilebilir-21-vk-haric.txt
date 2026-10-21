@@ -1,0 +1,27 @@
+# Super Adblock Test - 2026-10-21
+# Source: https://superadblocktest.com/ (live browser results)
+# AdGuard Home DNS blocklist, format: ||domain^
+# 482 probes -> 477 unique hostnames. DNS rules cannot target URL paths.
+# Warning: broad rules may break video, ecommerce tracking, consent, login or app functionality.
+# Reachable probes excluding path-only vk.com/rtrg (DNS would block all vk.com).
+||udc.yahoo.com^
+||s.youtube.com^
+||redirector.googlevideo.com^
+||ads.youtube.com^
+||googletagmanager.com^
+||www.googletagmanager.com^
+||rudderstack.com^
+||siftscience.com^
+||app.appsflyer.com^
+||api2.branch.io^
+||bnc.lt^
+||pixel.facebook.com^
+||ads-api.twitter.com^
+||privacyportal.onetrust.com^
+||app.usercentrics.eu^
+||cmp.osano.com^
+||zenaps.com^
+||click.mailchimp.com^
+||api.onesignal.com^
+||customer.io^
+||ssl.p.jwpcdn.com^
